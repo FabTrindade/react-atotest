@@ -1,0 +1,1 @@
+### This project is about the implementation of automated tests in a front-end application in React.
