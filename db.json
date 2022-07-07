@@ -20,6 +20,36 @@
       "valor": "10",
       "data": "03/07/2022",
       "id": 3
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "07/07/2022",
+      "id": 4
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "07/07/2022",
+      "id": 5
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "07/07/2022",
+      "id": 6
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "07/07/2022",
+      "id": 7
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "07/07/2022",
+      "id": 8
     }
   ]
 }
