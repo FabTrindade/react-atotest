@@ -1,6 +1,6 @@
 {
   "conta": {
-    "saldo": 1010
+    "saldo": 1020
   },
   "transacoes": [
     {
@@ -122,6 +122,24 @@
       "valor": "10",
       "data": "08/07/2022",
       "id": 20
+    },
+    {
+      "transacao": "",
+      "valor": 0,
+      "data": "09/07/2022",
+      "id": 21
+    },
+    {
+      "transacao": "",
+      "valor": 0,
+      "data": "09/07/2022",
+      "id": 22
+    },
+    {
+      "transacao": "deposito",
+      "valor": "10",
+      "data": "09/07/2022",
+      "id": 23
     }
   ]
 }
